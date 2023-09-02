@@ -2,7 +2,7 @@
 
 ![Versión de la librería](https://img.shields.io/badge/Versi%C3%B3n-1.0.3-brightgreen) [![NuGet](https://img.shields.io/nuget/v/OnionCrafter.Utils.Exception.svg)](https://www.nuget.org/packages/OnionCrafter.Utils.Exception/)
 
-![](https://github.com/Dtopiast/OnionCrafter.Utils.Exception/blob/main/Images/Logo.png)
+![](https://raw.githubusercontent.com/Dtopiast/OnionCrafter.Utils.Exception/main/Images/Logo.png)
 
 **Estado de la Librería: Pre-Alfa - No Listo para Producción**
 
