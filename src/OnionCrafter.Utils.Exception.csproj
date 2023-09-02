@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <PackageTags>extensions exceptions</PackageTags>
+	  <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  
+	  <Description>Provides a set of extensions designed to enhance exception handling within applications. This library offers a collection of utility methods and extensions to simplify the process of throwing and handling exceptions, making it easier for developers to manage and propagate errors effectively in their .NET 7 projects.</Description>
+	  <VersionPrefix>1.0.3</VersionPrefix>
+
+	  <GenerateDocumentationFile>True</GenerateDocumentationFile>
+	  <PackageIcon>JustLogo.png</PackageIcon>
+	  <IncludeSymbols>True</IncludeSymbols>
+	  <Copyright>Copyright 2023 Dtopiast</Copyright>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <AssemblyVersion>$(VersionPrefix)</AssemblyVersion>
+	  <FileVersion>$(VersionPrefix)</FileVersion>
+	  <Version>$(VersionPrefix)</Version>
+	  <Authors>Dtopiast</Authors>
+	  <RepositoryType>git</RepositoryType>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Images\JustLogo.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
